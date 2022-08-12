@@ -1,0 +1,12 @@
+{
+  "name": "CI Workflow for ECS-backend",
+  "description": "Build a Docker image to push to an Amazon ECR registry and deploy a container to an Amazon ECS service powered by AWS Fargate.",
+  "iconName": "icon",
+  "categories": [
+      "Automation"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "**/^Dockerfile"
+  ]
+}
