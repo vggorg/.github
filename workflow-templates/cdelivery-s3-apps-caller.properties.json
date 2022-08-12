@@ -1,0 +1,11 @@
+{
+  "name": "C Delivery Workflow for S3-apps deployments",
+  "description": "Build, test and push a package to Amazon S3 and deploy to CloudFront staging environment.",
+  "iconName": "icon",
+  "categories": [
+      "Automation"
+  ],
+  "filePatterns": [
+      "package.json$"
+  ]
+}
