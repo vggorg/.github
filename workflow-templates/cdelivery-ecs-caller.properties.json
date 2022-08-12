@@ -3,7 +3,7 @@
   "description": "Build a Docker image to push to an Amazon ECR registry and deploy a container to an Amazon ECS service powered by AWS Fargate in the staging environment.",
   "iconName": "icon",
   "categories": [
-      "Automation"
+    "Automation", "Deployment"
   ],
   "filePatterns": [
       "package.json$",
